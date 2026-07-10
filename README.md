@@ -1,16 +1,15 @@
-## Hi there 👋
+# 💫 About Me:
+👨‍💻 About Me<br>Hi there! I'm Adarsh, an Information Technology student with a passion for building software and solving complex technical challenges.<br><br>🎓 I'm currently pursuing my BTech in IT, where I enjoy bridging my strong foundation in core engineering—including Applied Mathematics, Physics, and Mechanics—with modern programming concepts.<br><br>💻 My technical stack spans multiple languages and frameworks, including C, Python, JavaScript, and React, as well as MySQL for database management.<br><br>🚀 I enjoy putting theory into practice by developing software projects and utilizing Git and GitHub for version control.<br><br>🤝 I thrive in collaborative environments, having worked closely with peers on everything from complex laboratory assessments to group presentations.<br><br>🌱 Currently focusing on: Deepening my knowledge in full-stack development and exploring new applications for React and Python.<br><br>📫 Let's connect: I'm always eager to discuss tech, engineering, or collaborate on exciting new projects!
 
-<!--
-**Adarsh-pratap-singh09/Adarsh-pratap-singh09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/xerostat_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Adarsh Pratap Singh) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/xerostat) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ADARSH_XEROSTAT) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adarshpratap3425@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=flat&logo=solidity&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Adarsh-pratap-singh09&theme=aura&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Adarsh-pratap-singh09&theme=aura&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Adarsh-pratap-singh09&theme=aura&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
